@@ -1,0 +1,366 @@
+,Mese,Giorno,TMinima,TMassima,TMedia,Umidita,Fenomeni,Condizioni
+0,Gennaio,1,-1 °C,-5 °C,5 °C,80 %,Nessuno,Sereno
+1,Gennaio,2,1 °C,-3 °C,7 °C,85 %,Nessuno,Poco nuvoloso
+2,Gennaio,3,3 °C,-1 °C,10 °C,81 %,Nessuno,Poco nuvoloso
+3,Gennaio,4,4 °C,-1 °C,10 °C,68 %,Nessuno,Sereno
+4,Gennaio,5,5 °C,0 °C,10 °C,40 %,Nessuno,Sereno
+5,Gennaio,6,4 °C,0 °C,10 °C,64 %,Nessuno,Nubi sparse
+6,Gennaio,7,6 °C,4 °C,9 °C,71 %,Nessuno,Nubi sparse
+7,Gennaio,8,5 °C,3 °C,8 °C,88 %,Nessuno,Nubi sparse
+8,Gennaio,9,3 °C,0 °C,9 °C,86 %,Nessuno,Poco nuvoloso
+9,Gennaio,10,2 °C,-2 °C,8 °C,91 %,Nessuno,Poco nuvoloso
+10,Gennaio,11,5 °C,1 °C,9 °C,82 %,Nebbia ,Nubi sparse
+11,Gennaio,12,6 °C,1 °C,10 °C,40 %,Nessuno,Sereno
+12,Gennaio,13,Missing data,Missing data,Missing data,Missing data,Missing data,Missing data
+13,Gennaio,14,4 °C,-1 °C,10 °C,82 %,Nessuno,Poco nuvoloso
+14,Gennaio,15,3 °C,-1 °C,9 °C,88 %,Nessuno,Nubi sparse
+15,Gennaio,16,7 °C,4 °C,9 °C,88 %,Pioggia ,Nubi sparse
+16,Gennaio,17,9 °C,4 °C,11 °C,93 %,Pioggia - Nebbia ,Nebbia
+17,Gennaio,18,5 °C,2 °C,11 °C,93 %,Nebbia ,Nebbia al mattino
+18,Gennaio,19,3 °C,-1 °C,9 °C,84 %,Nebbia ,Sereno
+19,Gennaio,20,4 °C,1 °C,8 °C,82 %,Nessuno,Nubi sparse
+20,Gennaio,21,5 °C,2 °C,8 °C,83 %,Pioggia ,Nubi sparse
+21,Gennaio,22,7 °C,6 °C,10 °C,91 %,Pioggia ,Nubi sparse
+22,Gennaio,23,6 °C,3 °C,10 °C,86 %,Nessuno,Nubi sparse
+23,Gennaio,24,7 °C,2 °C,13 °C,76 %,Nessuno,Nubi sparse
+24,Gennaio,25,5 °C,2 °C,11 °C,80 %,Nessuno,Nubi sparse
+25,Gennaio,26,4 °C,0 °C,10 °C,67 %,Nessuno,Nubi sparse
+26,Gennaio,27,2 °C,-2 °C,7 °C,75 %,Nessuno,Nubi sparse
+27,Gennaio,28,2 °C,-5 °C,9 °C,74 %,Nessuno,Sereno
+28,Gennaio,29,2 °C,-2 °C,4 °C,77 %,Nessuno,Nubi sparse
+29,Gennaio,30,3 °C,0 °C,4 °C,92 %,Pioggia ,Coperto
+30,Gennaio,31,2 °C,-2 °C,7 °C,81 %,Nessuno,Sereno
+31,Febbraio,1,3 °C,0 °C,8 °C,66 %,Nessuno,Nubi sparse
+32,Febbraio,2,2 °C,-2 °C,8 °C,85 %,Nessuno,Poco nuvoloso
+33,Febbraio,3,3 °C,1 °C,7 °C,80 %,Nessuno,Nubi sparse
+34,Febbraio,4,5 °C,0 °C,9 °C,64 %,Nessuno,Nubi sparse
+35,Febbraio,5,4 °C,2 °C,7 °C,83 %,Pioggia - Neve ,Pioggia debole
+36,Febbraio,6,7 °C,5 °C,8 °C,51 %,Pioggia ,Nubi sparse
+37,Febbraio,7,4 °C,-2 °C,7 °C,63 %,Nessuno,Nubi sparse
+38,Febbraio,8,2 °C,-4 °C,7 °C,67 %,Nessuno,Poco nuvoloso
+39,Febbraio,9,1 °C,-4 °C,7 °C,59 %,Nessuno,Sereno
+40,Febbraio,10,3 °C,-3 °C,10 °C,71 %,Nessuno,Sereno
+41,Febbraio,11,4 °C,-2 °C,12 °C,71 %,Nessuno,Poco nuvoloso
+42,Febbraio,12,5 °C,2 °C,10 °C,82 %,Pioggia ,Nubi sparse
+43,Febbraio,13,4 °C,3 °C,5 °C,70 %,Nessuno,Nubi sparse
+44,Febbraio,14,6 °C,4 °C,8 °C,84 %,Pioggia ,Pioggia e schiarite
+45,Febbraio,15,7 °C,6 °C,10 °C,89 %,Pioggia ,Nubi sparse
+46,Febbraio,16,9 °C,5 °C,14 °C,58 %,Nessuno,Poco nuvoloso
+47,Febbraio,17,8 °C,2 °C,13 °C,53 %,Nessuno,Sereno
+48,Febbraio,18,4 °C,-1 °C,10 °C,67 %,Nessuno,Sereno
+49,Febbraio,19,4 °C,-1 °C,11 °C,71 %,Nessuno,Poco nuvoloso
+50,Febbraio,20,3 °C,-2 °C,9 °C,85 %,Nessuno,Poco nuvoloso
+51,Febbraio,21,5 °C,0 °C,7 °C,82 %,Nebbia ,Nubi sparse
+52,Febbraio,22,7 °C,6 °C,11 °C,87 %,Pioggia ,Coperto
+53,Febbraio,23,9 °C,5 °C,13 °C,78 %,Pioggia ,Nubi sparse
+54,Febbraio,24,8 °C,6 °C,10 °C,84 %,Pioggia ,Nubi sparse
+55,Febbraio,25,10 °C,7 °C,14 °C,53 %,Pioggia ,Coperto
+56,Febbraio,26,10 °C,7 °C,14 °C,59 %,Nessuno,Coperto
+57,Febbraio,27,10 °C,5 °C,13 °C,65 %,Nessuno,Poco nuvoloso
+58,Febbraio,28,10 °C,5 °C,16 °C,66 %,Nessuno,Poco nuvoloso
+59,Marzo,1,8 °C,3 °C,13 °C,80 %,Nessuno,Poco nuvoloso
+60,Marzo,2,9 °C,6 °C,11 °C,92 %,Pioggia ,Pioggia e schiarite
+61,Marzo,3,8 °C,2 °C,15 °C,65 %,Nebbia ,Nebbia
+62,Marzo,4,9 °C,6 °C,14 °C,65 %,Pioggia - Temporale ,Nubi sparse
+63,Marzo,5,9 °C,4 °C,14 °C,35 %,Nessuno,Nubi sparse
+64,Marzo,6,8 °C,4 °C,14 °C,27 %,Nessuno,Sereno
+65,Marzo,7,7 °C,1 °C,14 °C,57 %,Nessuno,Sereno
+66,Marzo,8,8 °C,1 °C,14 °C,53 %,Nessuno,Sereno
+67,Marzo,9,7 °C,2 °C,12 °C,58 %,Nessuno,Sereno
+68,Marzo,10,9 °C,3 °C,16 °C,59 %,Nessuno,Sereno
+69,Marzo,11,10 °C,5 °C,17 °C,70 %,Nessuno,Poco nuvoloso
+70,Marzo,12,9 °C,2 °C,16 °C,53 %,Nessuno,Poco nuvoloso
+71,Marzo,13,8 °C,3 °C,14 °C,65 %,Nessuno,Poco nuvoloso
+72,Marzo,14,7 °C,2 °C,14 °C,70 %,Nessuno,Poco nuvoloso
+73,Marzo,15,9 °C,3 °C,14 °C,60 %,Nessuno,Poco nuvoloso
+74,Marzo,16,9 °C,7 °C,10 °C,81 %,Pioggia ,Sereno
+75,Marzo,17,12 °C,7 °C,15 °C,64 %,Pioggia ,Nubi sparse
+76,Marzo,18,11 °C,6 °C,15 °C,59 %,Nessuno,Poco nuvoloso
+77,Marzo,19,10 °C,3 °C,17 °C,67 %,Nessuno,Poco nuvoloso
+78,Marzo,20,10 °C,7 °C,15 °C,79 %,Nessuno,Nubi sparse
+79,Marzo,21,9 °C,6 °C,12 °C,79 %,Nessuno,Nubi sparse
+80,Marzo,22,9 °C,7 °C,12 °C,85 %,Pioggia ,Poco nuvoloso
+81,Marzo,23,11 °C,5 °C,17 °C,66 %,Nessuno,Poco nuvoloso
+82,Marzo,24,11 °C,5 °C,17 °C,70 %,Nessuno,Nubi sparse
+83,Marzo,25,11 °C,10 °C,13 °C,87 %,Pioggia ,Pioggia e schiarite
+84,Marzo,26,11 °C,10 °C,13 °C,92 %,Pioggia ,Sereno
+85,Marzo,27,11 °C,7 °C,15 °C,79 %,Pioggia ,Poco nuvoloso
+86,Marzo,28,10 °C,3 °C,17 °C,59 %,Nessuno,Sereno
+87,Marzo,29,10 °C,5 °C,15 °C,74 %,Nessuno,Nubi sparse
+88,Marzo,30,11 °C,5 °C,17 °C,72 %,Nessuno,Poco nuvoloso
+89,Marzo,31,13 °C,9 °C,18 °C,82 %,Nessuno,Nubi sparse
+90,Aprile,1,14 °C,4 °C,20 °C,46 %,Nessuno,Poco nuvoloso
+91,Aprile,2,12 °C,4 °C,18 °C,54 %,Nessuno,Poco nuvoloso
+92,Aprile,3,11 °C,5 °C,16 °C,60 %,Nessuno,Nubi sparse
+93,Aprile,4,9 °C,8 °C,12 °C,84 %,Nessuno,Coperto
+94,Aprile,5,10 °C,6 °C,15 °C,55 %,Nessuno,Nubi sparse
+95,Aprile,6,9 °C,1 °C,14 °C,40 %,Nessuno,Nubi sparse
+96,Aprile,7,9 °C,0 °C,16 °C,46 %,Nessuno,Sereno
+97,Aprile,8,10 °C,2 °C,17 °C,54 %,Nessuno,Sereno
+98,Aprile,9,12 °C,5 °C,19 °C,58 %,Nessuno,Poco nuvoloso
+99,Aprile,10,12 °C,6 °C,20 °C,63 %,Nessuno,Poco nuvoloso
+100,Aprile,11,13 °C,7 °C,19 °C,63 %,Nessuno,Poco nuvoloso
+101,Aprile,12,14 °C,8 °C,22 °C,61 %,Nessuno,Poco nuvoloso
+102,Aprile,13,16 °C,8 °C,25 °C,61 %,Nessuno,Poco nuvoloso
+103,Aprile,14,16 °C,11 °C,21 °C,64 %,Nessuno,Poco nuvoloso
+104,Aprile,15,16 °C,8 °C,24 °C,58 %,Nessuno,Poco nuvoloso
+105,Aprile,16,16 °C,10 °C,23 °C,59 %,Nessuno,Poco nuvoloso
+106,Aprile,17,14 °C,12 °C,15 °C,85 %,Pioggia ,Nubi sparse
+107,Aprile,18,11 °C,8 °C,17 °C,81 %,Pioggia ,Nubi sparse
+108,Aprile,19,10 °C,5 °C,16 °C,54 %,Nessuno,Sereno
+109,Aprile,20,13 °C,4 °C,20 °C,53 %,Nessuno,Sereno
+110,Aprile,21,15 °C,7 °C,23 °C,51 %,Nessuno,Poco nuvoloso
+111,Aprile,22,15 °C,9 °C,24 °C,62 %,Nessuno,Poco nuvoloso
+112,Aprile,23,16 °C,9 °C,23 °C,52 %,Pioggia ,Poco nuvoloso
+113,Aprile,24,15 °C,12 °C,20 °C,60 %,Nessuno,Poco nuvoloso
+114,Aprile,25,15 °C,9 °C,20 °C,74 %,Nessuno,Nubi sparse
+115,Aprile,26,15 °C,13 °C,20 °C,74 %,Pioggia - Temporale ,Nubi sparse
+116,Aprile,27,15 °C,14 °C,17 °C,86 %,Pioggia ,Pioggia e schiarite
+117,Aprile,28,16 °C,13 °C,19 °C,78 %,Pioggia ,Nubi sparse
+118,Aprile,29,15 °C,12 °C,19 °C,71 %,Nessuno,Nubi sparse
+119,Aprile,30,15 °C,11 °C,18 °C,70 %,Pioggia ,Nubi sparse
+120,Maggio,1,14 °C,11 °C,16 °C,85 %,Pioggia ,Nubi sparse
+121,Maggio,2,16 °C,13 °C,20 °C,75 %,Pioggia ,Nubi sparse
+122,Maggio,3,17 °C,15 °C,19 °C,79 %,Nessuno,Nubi sparse
+123,Maggio,4,18 °C,16 °C,22 °C,83 %,Nessuno,Nubi sparse
+124,Maggio,5,20 °C,15 °C,24 °C,69 %,Nebbia ,Poco nuvoloso
+125,Maggio,6,20 °C,14 °C,25 °C,72 %,Nessuno,Poco nuvoloso
+126,Maggio,7,21 °C,15 °C,26 °C,55 %,Nessuno,Poco nuvoloso
+127,Maggio,8,21 °C,14 °C,27 °C,46 %,Nessuno,Sereno
+128,Maggio,9,21 °C,17 °C,27 °C,53 %,Pioggia ,Nubi sparse
+129,Maggio,10,21 °C,14 °C,28 °C,50 %,Pioggia ,Sereno
+130,Maggio,11,21 °C,15 °C,28 °C,56 %,Nessuno,Sereno
+131,Maggio,12,21 °C,15 °C,26 °C,56 %,Nessuno,Nubi sparse
+132,Maggio,13,20 °C,15 °C,26 °C,63 %,Nessuno,Sereno
+133,Maggio,14,21 °C,16 °C,25 °C,62 %,Nessuno,Poco nuvoloso
+134,Maggio,15,18 °C,16 °C,20 °C,77 %,Pioggia - Temporale ,Nubi sparse
+135,Maggio,16,21 °C,16 °C,27 °C,57 %,Nessuno,Poco nuvoloso
+136,Maggio,17,23 °C,17 °C,28 °C,53 %,Nessuno,Poco nuvoloso
+137,Maggio,18,23 °C,17 °C,29 °C,50 %,Nessuno,Sereno
+138,Maggio,19,22 °C,16 °C,28 °C,64 %,Temporale ,Poco nuvoloso
+139,Maggio,20,19 °C,16 °C,21 °C,85 %,Pioggia - Temporale ,Nubi sparse
+140,Maggio,21,16 °C,10 °C,19 °C,70 %,Pioggia - Temporale ,Coperto
+141,Maggio,22,14 °C,12 °C,16 °C,81 %,Pioggia ,Coperto
+142,Maggio,23,14 °C,13 °C,16 °C,83 %,Pioggia ,Coperto
+143,Maggio,24,18 °C,12 °C,24 °C,59 %,Nessuno,Nubi sparse
+144,Maggio,25,19 °C,13 °C,25 °C,64 %,Pioggia - Temporale ,Nubi sparse
+145,Maggio,26,17 °C,14 °C,22 °C,76 %,Pioggia - Temporale ,Temporale
+146,Maggio,27,18 °C,14 °C,23 °C,61 %,Pioggia ,Nubi sparse
+147,Maggio,28,18 °C,14 °C,22 °C,58 %,Nessuno,Nubi sparse
+148,Maggio,29,19 °C,11 °C,24 °C,63 %,Nessuno,Nubi sparse
+149,Maggio,30,20 °C,13 °C,25 °C,64 %,Temporale ,Poco nuvoloso
+150,Maggio,31,20 °C,17 °C,24 °C,68 %,Pioggia - Temporale ,Nubi sparse
+151,Giugno,1,21 °C,15 °C,27 °C,62 %,Nessuno,Poco nuvoloso
+152,Giugno,2,23 °C,18 °C,28 °C,68 %,Pioggia ,Poco nuvoloso
+153,Giugno,3,25 °C,18 °C,32 °C,59 %,Nessuno,Poco nuvoloso
+154,Giugno,4,27 °C,20 °C,33 °C,51 %,Nessuno,Nubi sparse
+155,Giugno,5,27 °C,21 °C,32 °C,55 %,Nessuno,Sereno
+156,Giugno,6,27 °C,22 °C,32 °C,58 %,Nessuno,Poco nuvoloso
+157,Giugno,7,27 °C,22 °C,33 °C,52 %,Nessuno,Sereno
+158,Giugno,8,27 °C,23 °C,32 °C,42 %,Nessuno,Nubi sparse
+159,Giugno,9,25 °C,17 °C,31 °C,49 %,Nessuno,Poco nuvoloso
+160,Giugno,10,26 °C,20 °C,30 °C,51 %,Nessuno,Nubi sparse
+161,Giugno,11,25 °C,19 °C,30 °C,54 %,Nessuno,Poco nuvoloso
+162,Giugno,12,25 °C,20 °C,30 °C,60 %,Temporale ,Poco nuvoloso
+163,Giugno,13,25 °C,21 °C,30 °C,63 %,Temporale ,Nubi sparse
+164,Giugno,14,21 °C,19 °C,23 °C,83 %,Pioggia - Temporale ,Nubi sparse
+165,Giugno,15,22 °C,18 °C,28 °C,76 %,Pioggia - Temporale ,Temporale
+166,Giugno,16,20 °C,18 °C,25 °C,81 %,Pioggia - Temporale ,Nubi sparse
+167,Giugno,17,21 °C,17 °C,25 °C,60 %,Pioggia ,Nubi sparse
+168,Giugno,18,21 °C,16 °C,25 °C,59 %,Nessuno,Nubi sparse
+169,Giugno,19,21 °C,18 °C,26 °C,78 %,Pioggia - Temporale ,Nubi sparse
+170,Giugno,20,19 °C,17 °C,22 °C,68 %,Pioggia ,Nubi sparse
+171,Giugno,21,19 °C,14 °C,24 °C,63 %,Pioggia ,Poco nuvoloso
+172,Giugno,22,22 °C,17 °C,27 °C,66 %,Nessuno,Nubi sparse
+173,Giugno,23,20 °C,15 °C,24 °C,80 %,Pioggia - Temporale ,Coperto
+174,Giugno,24,20 °C,14 °C,25 °C,57 %,Pioggia ,Poco nuvoloso
+175,Giugno,25,22 °C,15 °C,27 °C,56 %,Nessuno,Sereno
+176,Giugno,26,23 °C,17 °C,28 °C,60 %,Nessuno,Poco nuvoloso
+177,Giugno,27,22 °C,18 °C,29 °C,68 %,Pioggia - Temporale ,Poco nuvoloso
+178,Giugno,28,23 °C,16 °C,28 °C,58 %,Nessuno,Poco nuvoloso
+179,Giugno,29,24 °C,18 °C,29 °C,60 %,Nessuno,Nubi sparse
+180,Giugno,30,25 °C,18 °C,31 °C,62 %,Nessuno,Poco nuvoloso
+181,Luglio,1,25 °C,19 °C,32 °C,57 %,Nessuno,Sereno
+182,Luglio,2,26 °C,19 °C,32 °C,56 %,Nessuno,Poco nuvoloso
+183,Luglio,3,27 °C,21 °C,34 °C,64 %,Pioggia - Temporale ,Poco nuvoloso
+184,Luglio,4,28 °C,20 °C,34 °C,60 %,Nessuno,Sereno
+185,Luglio,5,29 °C,23 °C,34 °C,63 %,Nessuno,Poco nuvoloso
+186,Luglio,6,30 °C,23 °C,35 °C,65 %,Nessuno,Nubi sparse
+187,Luglio,7,30 °C,24 °C,36 °C,62 %,Nessuno,Poco nuvoloso
+188,Luglio,8,28 °C,22 °C,33 °C,75 %,Pioggia - Temporale ,Poco nuvoloso
+189,Luglio,9,25 °C,21 °C,28 °C,57 %,Temporale ,Poco nuvoloso
+190,Luglio,10,24 °C,19 °C,28 °C,44 %,Nessuno,Sereno
+191,Luglio,11,24 °C,17 °C,31 °C,52 %,Nessuno,Sereno
+192,Luglio,12,27 °C,20 °C,33 °C,53 %,Nessuno,Sereno
+193,Luglio,13,27 °C,21 °C,32 °C,57 %,Nessuno,Poco nuvoloso
+194,Luglio,14,27 °C,21 °C,33 °C,57 %,Nessuno,Sereno
+195,Luglio,15,28 °C,23 °C,33 °C,60 %,Nessuno,Poco nuvoloso
+196,Luglio,16,29 °C,24 °C,34 °C,60 %,Nessuno,Poco nuvoloso
+197,Luglio,17,29 °C,24 °C,35 °C,64 %,Nessuno,Sereno
+198,Luglio,18,30 °C,24 °C,35 °C,52 %,Nessuno,Sereno
+199,Luglio,19,31 °C,25 °C,36 °C,60 %,Nessuno,Sereno
+200,Luglio,20,31 °C,25 °C,37 °C,60 %,Nessuno,Poco nuvoloso
+201,Luglio,21,31 °C,25 °C,37 °C,53 %,Nessuno,Sereno
+202,Luglio,22,32 °C,25 °C,38 °C,48 %,Nessuno,Sereno
+203,Luglio,23,31 °C,26 °C,37 °C,56 %,Pioggia - Temporale ,Poco nuvoloso
+204,Luglio,24,28 °C,19 °C,34 °C,55 %,Pioggia - Temporale ,Poco nuvoloso
+205,Luglio,25,27 °C,23 °C,32 °C,61 %,Nessuno,Nubi sparse
+206,Luglio,26,24 °C,19 °C,28 °C,59 %,Pioggia - Temporale ,Poco nuvoloso
+207,Luglio,27,24 °C,19 °C,30 °C,71 %,Pioggia ,Nubi sparse
+208,Luglio,28,26 °C,22 °C,30 °C,64 %,Nessuno,Poco nuvoloso
+209,Luglio,29,25 °C,22 °C,30 °C,77 %,Pioggia - Temporale ,Poco nuvoloso
+210,Luglio,30,23 °C,20 °C,27 °C,65 %,Nessuno,Nubi sparse
+211,Luglio,31,23 °C,19 °C,28 °C,46 %,Temporale ,Nubi sparse
+212,Agosto,1,23 °C,18 °C,28 °C,57 %,Pioggia ,Nubi sparse
+213,Agosto,2,23 °C,18 °C,27 °C,72 %,Pioggia ,Nubi sparse
+214,Agosto,3,26 °C,20 °C,32 °C,60 %,Nessuno,Sereno
+215,Agosto,4,28 °C,22 °C,32 °C,59 %,Nessuno,Sereno
+216,Agosto,5,28 °C,22 °C,34 °C,54 %,Nessuno,Sereno
+217,Agosto,6,30 °C,24 °C,35 °C,50 %,Nessuno,Sereno
+218,Agosto,7,30 °C,25 °C,36 °C,52 %,Nessuno,Sereno
+219,Agosto,8,30 °C,26 °C,37 °C,46 %,Nessuno,Nubi sparse
+220,Agosto,9,30 °C,24 °C,36 °C,44 %,Nessuno,Sereno
+221,Agosto,10,30 °C,24 °C,35 °C,41 %,Nessuno,Sereno
+222,Agosto,11,28 °C,19 °C,35 °C,43 %,Nessuno,Poco nuvoloso
+223,Agosto,12,29 °C,21 °C,36 °C,41 %,Nessuno,Sereno
+224,Agosto,13,29 °C,22 °C,36 °C,37 %,Nessuno,Sereno
+225,Agosto,14,28 °C,21 °C,34 °C,48 %,Nessuno,Poco nuvoloso
+226,Agosto,15,25 °C,18 °C,31 °C,61 %,Pioggia - Temporale ,Nubi sparse
+227,Agosto,16,22 °C,19 °C,25 °C,74 %,Pioggia - Temporale ,Nubi sparse
+228,Agosto,17,22 °C,18 °C,28 °C,75 %,Pioggia - Temporale ,Nubi sparse
+229,Agosto,18,22 °C,18 °C,28 °C,70 %,Temporale ,Poco nuvoloso
+230,Agosto,19,18 °C,13 °C,20 °C,87 %,Pioggia - Temporale ,Nubi sparse
+231,Agosto,20,22 °C,17 °C,28 °C,62 %,Pioggia - Temporale ,Temporale
+232,Agosto,21,21 °C,17 °C,25 °C,63 %,Pioggia ,Poco nuvoloso
+233,Agosto,22,21 °C,16 °C,26 °C,61 %,Nessuno,Poco nuvoloso
+234,Agosto,23,22 °C,18 °C,26 °C,60 %,Nessuno,Coperto
+235,Agosto,24,20 °C,18 °C,21 °C,85 %,Pioggia ,Coperto
+236,Agosto,25,23 °C,19 °C,29 °C,76 %,Pioggia ,Nubi sparse
+237,Agosto,26,23 °C,19 °C,28 °C,63 %,Nessuno,Poco nuvoloso
+238,Agosto,27,24 °C,18 °C,31 °C,69 %,Nessuno,Sereno
+239,Agosto,28,24 °C,18 °C,29 °C,76 %,Nessuno,Poco nuvoloso
+240,Agosto,29,26 °C,20 °C,33 °C,68 %,Nebbia ,Poco nuvoloso
+241,Agosto,30,27 °C,20 °C,33 °C,53 %,Nessuno,Sereno
+242,Agosto,31,26 °C,21 °C,33 °C,77 %,Nessuno,Poco nuvoloso
+243,Settembre,1,25 °C,20 °C,31 °C,66 %,Nebbia ,Poco nuvoloso
+244,Settembre,2,23 °C,20 °C,29 °C,72 %,Temporale ,Poco nuvoloso
+245,Settembre,3,24 °C,20 °C,28 °C,57 %,Temporale ,Nubi sparse
+246,Settembre,4,23 °C,17 °C,30 °C,65 %,Pioggia - Temporale ,Poco nuvoloso
+247,Settembre,5,21 °C,18 °C,25 °C,78 %,Pioggia - Temporale ,Nubi sparse
+248,Settembre,6,19 °C,13 °C,25 °C,54 %,Nessuno,Sereno
+249,Settembre,7,19 °C,16 °C,24 °C,51 %,Nessuno,Poco nuvoloso
+250,Settembre,8,18 °C,12 °C,25 °C,55 %,Nessuno,Poco nuvoloso
+251,Settembre,9,18 °C,15 °C,23 °C,53 %,Nessuno,Nubi sparse
+252,Settembre,10,19 °C,16 °C,23 °C,46 %,Nessuno,Nubi sparse
+253,Settembre,11,18 °C,13 °C,25 °C,55 %,Nessuno,Poco nuvoloso
+254,Settembre,12,19 °C,12 °C,25 °C,67 %,Nessuno,Poco nuvoloso
+255,Settembre,13,20 °C,16 °C,24 °C,80 %,Pioggia - Temporale ,Nubi sparse
+256,Settembre,14,20 °C,17 °C,26 °C,84 %,Pioggia - Temporale ,Poco nuvoloso
+257,Settembre,15,22 °C,18 °C,26 °C,70 %,Nessuno,Poco nuvoloso
+258,Settembre,16,22 °C,17 °C,26 °C,75 %,Nessuno,Nubi sparse
+259,Settembre,17,23 °C,20 °C,27 °C,78 %,Nessuno,Nubi sparse
+260,Settembre,18,24 °C,19 °C,30 °C,66 %,Nessuno,Nubi sparse
+261,Settembre,19,20 °C,13 °C,26 °C,69 %,Nessuno,Poco nuvoloso
+262,Settembre,20,21 °C,17 °C,26 °C,58 %,Nessuno,Nubi sparse
+263,Settembre,21,20 °C,16 °C,24 °C,54 %,Nessuno,Poco nuvoloso
+264,Settembre,22,17 °C,12 °C,22 °C,61 %,Nessuno,Nubi sparse
+265,Settembre,23,16 °C,14 °C,18 °C,77 %,Pioggia ,Coperto
+266,Settembre,24,16 °C,13 °C,20 °C,63 %,Pioggia ,Coperto
+267,Settembre,25,17 °C,14 °C,20 °C,72 %,Nessuno,Nubi sparse
+268,Settembre,26,18 °C,15 °C,22 °C,77 %,Nessuno,Nubi sparse
+269,Settembre,27,17 °C,14 °C,20 °C,65 %,Nessuno,Nubi sparse
+270,Settembre,28,17 °C,13 °C,21 °C,47 %,Nessuno,Poco nuvoloso
+271,Settembre,29,16 °C,12 °C,21 °C,42 %,Nessuno,Nubi sparse
+272,Settembre,30,14 °C,9 °C,18 °C,49 %,Nessuno,Nubi sparse
+273,Ottobre,1,15 °C,12 °C,19 °C,47 %,Nessuno,Coperto
+274,Ottobre,2,16 °C,14 °C,18 °C,60 %,Pioggia ,Coperto
+275,Ottobre,3,16 °C,14 °C,19 °C,85 %,Pioggia - Nebbia ,Nubi sparse
+276,Ottobre,4,16 °C,14 °C,20 °C,82 %,Pioggia - Temporale - Nebbia ,Nubi sparse
+277,Ottobre,5,16 °C,13 °C,21 °C,69 %,Nessuno,Nubi sparse
+278,Ottobre,6,16 °C,14 °C,18 °C,82 %,Pioggia ,Nubi sparse
+279,Ottobre,7,18 °C,15 °C,21 °C,81 %,Pioggia - Temporale - Nebbia ,Nubi sparse
+280,Ottobre,8,19 °C,16 °C,23 °C,72 %,Nessuno,Coperto
+281,Ottobre,9,18 °C,15 °C,22 °C,73 %,Nessuno,Poco nuvoloso
+282,Ottobre,10,16 °C,14 °C,19 °C,69 %,Nessuno,Poco nuvoloso
+283,Ottobre,11,17 °C,14 °C,22 °C,63 %,Pioggia ,Nubi sparse
+284,Ottobre,12,16 °C,12 °C,21 °C,78 %,Pioggia - Nebbia ,Nubi sparse
+285,Ottobre,13,14 °C,12 °C,15 °C,85 %,Pioggia ,Coperto
+286,Ottobre,14,13 °C,12 °C,14 °C,84 %,Pioggia ,Sereno
+287,Ottobre,15,14 °C,11 °C,17 °C,79 %,Pioggia ,Nubi sparse
+288,Ottobre,16,12 °C,8 °C,13 °C,78 %,Pioggia ,Nubi sparse
+289,Ottobre,17,11 °C,6 °C,17 °C,71 %,Nessuno,Nubi sparse
+290,Ottobre,18,13 °C,11 °C,16 °C,74 %,Pioggia ,Nubi sparse
+291,Ottobre,19,14 °C,9 °C,18 °C,80 %,Pioggia - Temporale ,Poco nuvoloso
+292,Ottobre,20,11 °C,7 °C,17 °C,64 %,Nessuno,Sereno
+293,Ottobre,21,11 °C,7 °C,17 °C,62 %,Nessuno,Sereno
+294,Ottobre,22,11 °C,6 °C,16 °C,63 %,Nessuno,Sereno
+295,Ottobre,23,11 °C,7 °C,18 °C,66 %,Nessuno,Poco nuvoloso
+296,Ottobre,24,12 °C,6 °C,18 °C,72 %,Nessuno,Poco nuvoloso
+297,Ottobre,25,11 °C,6 °C,17 °C,73 %,Nebbia ,Nebbia
+298,Ottobre,26,13 °C,8 °C,21 °C,64 %,Nessuno,Poco nuvoloso
+299,Ottobre,27,12 °C,8 °C,18 °C,69 %,Nessuno,Nubi sparse
+300,Ottobre,28,13 °C,11 °C,14 °C,84 %,Pioggia ,Nubi sparse
+301,Ottobre,29,14 °C,12 °C,15 °C,84 %,Pioggia - Nebbia ,Coperto
+302,Ottobre,30,14 °C,10 °C,19 °C,74 %,Nebbia ,Sereno
+303,Ottobre,31,13 °C,9 °C,19 °C,53 %,Nessuno,Sereno
+304,Novembre,1,12 °C,7 °C,18 °C,56 %,Nessuno,Sereno
+305,Novembre,2,9 °C,3 °C,17 °C,63 %,Nessuno,Sereno
+306,Novembre,3,8 °C,2 °C,15 °C,68 %,Nessuno,Poco nuvoloso
+307,Novembre,4,9 °C,6 °C,14 °C,73 %,Nessuno,Poco nuvoloso
+308,Novembre,5,10 °C,5 °C,17 °C,74 %,Nessuno,Poco nuvoloso
+309,Novembre,6,11 °C,5 °C,19 °C,74 %,Nessuno,Poco nuvoloso
+310,Novembre,7,13 °C,6 °C,21 °C,71 %,Nessuno,Poco nuvoloso
+311,Novembre,8,12 °C,6 °C,19 °C,74 %,Nebbia ,Poco nuvoloso
+312,Novembre,9,11 °C,7 °C,16 °C,85 %,Nebbia ,Nebbia
+313,Novembre,10,9 °C,7 °C,12 °C,85 %,Nebbia ,Nebbia
+314,Novembre,11,8 °C,6 °C,10 °C,91 %,Nebbia ,Nebbia
+315,Novembre,12,8 °C,5 °C,14 °C,92 %,Nebbia ,Nebbia
+316,Novembre,13,7 °C,6 °C,9 °C,96 %,Nebbia ,Nebbia
+317,Novembre,14,10 °C,7 °C,14 °C,86 %,Nebbia ,Nubi sparse
+318,Novembre,15,8 °C,6 °C,11 °C,90 %,Nebbia ,Nebbia
+319,Novembre,16,9 °C,5 °C,13 °C,92 %,Nebbia ,Nebbia
+320,Novembre,17,8 °C,4 °C,10 °C,95 %,Nebbia ,Nebbia al mattino
+321,Novembre,18,10 °C,9 °C,12 °C,89 %,Nessuno,Nubi sparse
+322,Novembre,19,10 °C,8 °C,13 °C,83 %,Nebbia ,Nubi sparse
+323,Novembre,20,9 °C,8 °C,10 °C,92 %,Pioggia - Nebbia ,Nubi sparse
+324,Novembre,21,8 °C,5 °C,10 °C,88 %,Pioggia - Nebbia ,Nebbia al mattino
+325,Novembre,22,6 °C,3 °C,10 °C,79 %,Nessuno,Poco nuvoloso
+326,Novembre,23,6 °C,4 °C,9 °C,78 %,Pioggia ,Nubi sparse
+327,Novembre,24,6 °C,3 °C,11 °C,65 %,Nessuno,Poco nuvoloso
+328,Novembre,25,4 °C,0 °C,6 °C,81 %,Nessuno,Poco nuvoloso
+329,Novembre,26,5 °C,3 °C,8 °C,77 %,Nessuno,Nubi sparse
+330,Novembre,27,5 °C,1 °C,12 °C,62 %,Nessuno,Sereno
+331,Novembre,28,2 °C,-2 °C,7 °C,82 %,Nessuno,Nubi sparse
+332,Novembre,29,3 °C,-1 °C,9 °C,76 %,Nessuno,Poco nuvoloso
+333,Novembre,30,3 °C,-2 °C,9 °C,83 %,Nessuno,Poco nuvoloso
+334,Dicembre,1,4 °C,0 °C,10 °C,84 %,Nessuno,Poco nuvoloso
+335,Dicembre,2,6 °C,1 °C,13 °C,84 %,Nebbia ,Poco nuvoloso
+336,Dicembre,3,8 °C,3 °C,12 °C,82 %,Nebbia ,Nubi sparse
+337,Dicembre,4,8 °C,6 °C,10 °C,86 %,Nessuno,Nubi sparse
+338,Dicembre,5,8 °C,3 °C,12 °C,80 %,Nebbia ,Nubi sparse
+339,Dicembre,6,4 °C,1 °C,7 °C,90 %,Nebbia ,Nebbia al mattino
+340,Dicembre,7,5 °C,3 °C,8 °C,91 %,Nebbia ,Nebbia
+341,Dicembre,8,4 °C,1 °C,10 °C,85 %,Nebbia ,Nebbia al mattino
+342,Dicembre,9,4 °C,-3 °C,10 °C,83 %,Nebbia ,Nebbia al mattino
+343,Dicembre,10,6 °C,1 °C,12 °C,72 %,Nebbia ,Nebbia
+344,Dicembre,11,2 °C,-1 °C,7 °C,75 %,Nessuno,Poco nuvoloso
+345,Dicembre,12,1 °C,-4 °C,8 °C,78 %,Nessuno,Poco nuvoloso
+346,Dicembre,13,1 °C,-4 °C,7 °C,81 %,Nessuno,Poco nuvoloso
+347,Dicembre,14,5 °C,1 °C,12 °C,73 %,Nessuno,Poco nuvoloso
+348,Dicembre,15,4 °C,0 °C,10 °C,83 %,Nessuno,Nubi sparse
+349,Dicembre,16,5 °C,1 °C,11 °C,73 %,Nessuno,Nubi sparse
+350,Dicembre,17,6 °C,2 °C,13 °C,75 %,Nessuno,Poco nuvoloso
+351,Dicembre,18,4 °C,-1 °C,12 °C,83 %,Nessuno,Poco nuvoloso
+352,Dicembre,19,4 °C,-1 °C,12 °C,81 %,Nessuno,Poco nuvoloso
+353,Dicembre,20,4 °C,-1 °C,12 °C,83 %,Nebbia ,Poco nuvoloso
+354,Dicembre,21,7 °C,5 °C,9 °C,87 %,Nebbia ,Nebbia
+355,Dicembre,22,5 °C,2 °C,8 °C,92 %,Nebbia ,Nebbia
+356,Dicembre,23,5 °C,3 °C,7 °C,87 %,Nebbia ,Nebbia
+357,Dicembre,24,5 °C,2 °C,9 °C,80 %,Nebbia ,Nebbia
+358,Dicembre,25,2 °C,-1 °C,9 °C,85 %,Nebbia ,Nebbia
+359,Dicembre,26,1 °C,-1 °C,4 °C,93 %,Nebbia ,Nebbia
+360,Dicembre,27,0 °C,-1 °C,2 °C,91 %,Nebbia ,Nebbia
+361,Dicembre,28,0 °C,-1 °C,1 °C,91 %,Nebbia ,Nebbia
+362,Dicembre,29,0 °C,-2 °C,4 °C,88 %,Nebbia ,Nebbia
+363,Dicembre,30,5 °C,-2 °C,10 °C,63 %,Nebbia ,Poco nuvoloso
+364,Dicembre,31,2 °C,-1 °C,5 °C,68 %,Nessuno,Poco nuvoloso
